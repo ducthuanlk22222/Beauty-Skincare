@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "V-right New Tone Cleaning Foam",
+      "price": 310000,
+      "idcata": 1,
+      "note": "Kem nâng tone mặt",
+      "images": "v-right new tone cleansing foam.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Moaz Lipstick",
+      "price": 180000,
+      "idcata": 2,
+      "note": "Son môi",
+      "images": "moaz lipstick.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Moaz Lipstick",
+      "price": 180000,
+      "idcata": 2,
+      "note": "Son môi",
+      "images": "moaz lipstick.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "Natural Cleaning Oil",
+      "price": 260000,
+      "idcata": 2,
+      "note": "Tẩy trang vàng",
+      "images": "natural cleansing oil.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Premium Negin Saffron Mask",
+      "price": 310000,
+      "idcata": 1,
+      "note": "Mặt nạ dưỡng mặt cao cấp",
+      "images": "premium negin saffron mask.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Steaming Face Cream",
+      "price": 320000,
+      "idcata": 1,
+      "note": "Kem dưỡng mặt",
+      "images": "steaming face cream.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sun Protection Lotion",
+      "price": 230000,
+      "idcata": 1,
+      "note": "Kem chống nắng",
+      "images": "sun protection lotion.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Whitening Face Cream",
+      "price": 300000,
+      "idcata": 1,
+      "note": "Kem trắng da mặt",
+      "images": "whitening face cream.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Alcohol Free Toner",
+      "price": 240000,
+      "idcata": 2,
+      "note": "Toner da",
+      "imag": "aLCOHOL FREE TONER.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Whitening Face Cream",
+      "price": 300000,
+      "idcata": 1,
+      "note": "Kem trắng da bdoy",
+      "images": "whitening face cream.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Anti Acne",
+      "price": 290000,
+      "idcata": 2,
+      "note": "Trị mụn",
+      "images": "anti acne.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Perfume Seed",
+      "price": 280000,
+      "idcata": 2,
+      "note": "Nước hoa",
+      "images": "perfume seed.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Steaming Body Cream",
+      "price": 250000,
+      "idcata": 1,
+      "note": "Kem dưỡng body",
+      "images": "steaming body.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Whitening Body Cream",
+      "price": 360000,
+      "idcata": 1,
+      "note": "Kem trắng body",
+      "images": "whitening body cream.jpg"
+    },
+    {
+      "id": 14,
+      "name": "JeJu Vitamin Seawater Mineral Mist",
+      "price": 270000,
+      "idcata": 2,
+      "note": "Xịt khoáng",
+      "images": "jeju vitamin seawater mineral mist.jpg"
+    },
+    {
+      "name": "123",
+      "price": "2131-03-12",
+      "note": "123",
+      "images": "1",
+      "id": 15
+    }
+  ],
+  "Catalogs": [
+    {
+      "id": 1,
+      "name": "Tất cả sản phẩm"
+    },
+    {
+      "id": 2,
+      "name": "Chăm sóc cơ thể"
+    },
+    {
+      "id": 3,
+      "name": "Chăm sóc da mặt"
+    }
+  ]
+}
