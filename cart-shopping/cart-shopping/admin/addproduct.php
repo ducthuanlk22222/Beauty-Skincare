@@ -2,6 +2,7 @@
 		include "connect.php";
 
 		if(isset($_POST['name'])){
+			$id 					= $_POST['id'];
 			$name					= $_POST['name'];
 			$price 				=	$_POST['price'];
 			$description 	= $_POST['description'];
@@ -11,8 +12,8 @@
 				$file_name 	= $file['name'];
 				move_uploaded_file($file['tmp_name'],'../uploads/'.$file_name);
 			}
-			$sql = "INSERT INTO `product`(`name`, `price`, `image`, `description`, `idcate`)
-							VALUES ('$name','$price','$file_name','$description','$idcate')";
+			$sql = "INSERT INTO `product`(`id`,`name`, `price`, `image`, `description`, `idcate`)
+							VALUES ('$id','$name','$price','$file_name','$description','$idcate')";
 
 			$query 				= mysqli_query($data, $sql);
 			if($query){
